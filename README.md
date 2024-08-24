@@ -1,7 +1,7 @@
 - 👋 Hi! I’m Kaustubh
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python,SQL
-- 💞️ I’m looking to collaborate on Data Science projects
+- 👀 I’m interested in Data Analytics, Machine Learning, GenAI, Ethical Hacking
+- 🌱 I’m currently learning Rust, Python, Webdev, LLMs
+- 💞️ I’m looking to collaborate on Data Science, GenAI projects
 - 📫 How to reach me:
                      Linekdin-https://www.linkedin.com/in/kaustubh-ghale-647329256/
                          Twitter-https://twitter.com/KausGhale1906
